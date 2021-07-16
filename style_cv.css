@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "Averia Regular";
+    src: url("fonts/Averia-Regular.ttf") format("truetype");
+
+   }
+
+.couleurTxt
+{
+    color: rgb(175, 202, 55 ) ;
+}
+.aligneTxt
+{
+    
+    text-align: center;
+}
+body
+{
+    border: 2px dotted black;
+   padding: 25px;
+    background: url('images/orRose.jpg')  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.bord
+{
+    border: magenta solid;
+}
+h1
+{
+    text-shadow: 5px 5px 5px  maroon ;
+    font-family: "Averia Regular";
+}
