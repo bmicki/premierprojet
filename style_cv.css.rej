@@ -1,0 +1,10 @@
+diff a/style_cv.css b/style_cv.css	(rejected hunks)
+@@ -24,7 +24,7 @@
+ }
+ .bord
+ {
+-    border: magenta solid;
++    border: green;
+ }
+ h1
+ {
