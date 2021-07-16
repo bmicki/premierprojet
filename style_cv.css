@@ -31,3 +31,7 @@ h1
     text-shadow: 5px 5px 5px  maroon ;
     font-family: "Averia Regular";
 }
+h2
+{
+    text-align: right;
+}
